@@ -3,3 +3,5 @@ Repositorio criado para o Desafio de Projeto
 
 ## Links Úteis
 [sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
+
+## Sugestão de cursos
